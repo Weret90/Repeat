@@ -14,6 +14,8 @@ public class MainActivity extends AppCompatActivity {
     private boolean isWorking = false;
     private boolean wasWorking = false;
     private TextView textViewTimer;
+    String hello = "hello";
+    String hello2 = "hello";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
